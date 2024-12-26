@@ -23,17 +23,22 @@ app=uumxd.exe
 下载源可使用 `alist` 挂载网盘, 会员基本可以跑满速, 需要一个服务器运行 `alist`
 
 在使用 `alist` 提取到的文件链接, 其实不是真实下载链接, 最终会 `302`, 不走服务器下载流量
+
 项目链接: https://github.com/alist-org/alist
 
 ## 依赖
-以下依赖均开源
+以下依赖均开源, 除 exui
 - 精易模块
 - zyJson
 - 7z
 - aria2
+- exui
 
 ## 流程
 ![image](https://github.com/user-attachments/assets/b749ba34-b24a-4db8-8d67-5267e9d0d7ad)
+
+## 联系作者 
+group 652970366
 
 
 
