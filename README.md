@@ -17,10 +17,10 @@ function __启动窗口_创建完毕() {
 url=http://baidu.com?file=11.zip
 # 文件的md5, 下载文件后会校验正确性
 md5=BFB10A76EB3B379DBD69BEBE2F0F9BB7
-# 下载的文件名
-filename=uumxd.zip
+# 下载的文件名, 一般来说 可以加个版本号
+filename=uumxd_v122.zip
 # 选择解压目录时, 自动追加的文件夹名字
-directory=uumxd
+directory=uumxd_v122
 # 创建快捷方式时, 桌面的快捷方式名字
 shortcut=uumxd
 # 创建快捷方式时, 主程序的名字
