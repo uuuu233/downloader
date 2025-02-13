@@ -41,13 +41,10 @@ app = uumxd.exe
 使用 `下载器生成器.exe` 配置基本信息, 会生成一个下载器
 
 ## 流程
-![image](https://github.com/user-attachments/assets/b749ba34-b24a-4db8-8d67-5267e9d0d7ad)
+![image](https://github.com/user-attachments/assets/ff029beb-5412-435c-83bf-659812ba9dec)
 
 ## 软件截图
 ![b4626121a5c44d5aa56f85dc888d5c07](https://github.com/user-attachments/assets/d7b16f59-5b98-4823-a5a5-7b317692ebbe)
 
 ## 联系作者 
 group 652970366
-
-
-
