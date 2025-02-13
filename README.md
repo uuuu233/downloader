@@ -37,6 +37,14 @@ app = uumxd.exe
 
 使用 `下载器生成器.exe` 配置基本信息, 会生成一个下载器
 
+# 编译时遇到的问题
+因为依赖了 `exui` 需要安装支持库才能使用, `exui` 本身需要收费的
+
+exui 官网: https://exuik.com/
+
+# 可能会报毒, 解决方案
+易语言天生就被各种杀软拉黑, 如果不能接受, 可以使用 c 包裹 易语言 运行
+
 ## 流程
 ![image](https://github.com/user-attachments/assets/ff029beb-5412-435c-83bf-659812ba9dec)
 
