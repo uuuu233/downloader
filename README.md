@@ -19,6 +19,10 @@ shortcut = uumxd
 app = uumxd.exe
 ```
 
+站在 `下载器` 视角: 我在启动后访问一个 `url` 地址, 把响应信息当作 `文件信息`
+
+所以要为 `文件信息` 配置一个 `url`, 以便能访问
+
 ## 下载的资源
 
 必须为压缩包的形式, 建议格式为 `zip`, `rar`, `7z` 等主流格式
@@ -50,6 +54,3 @@ exui 官网: https://exuik.com/
 
 ## 软件截图
 ![b4626121a5c44d5aa56f85dc888d5c07](https://github.com/user-attachments/assets/d7b16f59-5b98-4823-a5a5-7b317692ebbe)
-
-## 联系作者 
-group 652970366
