@@ -51,13 +51,13 @@ exui 官网: https://exuik.com/
 
 # 萌新使用流程
 1. 部署好 `alist`, 并上传所需要下载的文件
-2. 获取文件的 `url`
-3. 编译好 `文件信息`, 里面的 `url` 就是刚才获取的 `url`
-4. 上传 `文件信息`, 获取 `url`
+2. 获取下载文件的 `url`
+3. 编辑好 `文件信息`
+4. 上传并复制 `文件信息` 的 `url`
 5. 使用 `下载器生成器.exe` 填入 `文件信息` 的 `url` 和背景图片, 并生成
 
 ## 流程
-![image](https://github.com/user-attachments/assets/ff029beb-5412-435c-83bf-659812ba9dec)
+<img src="https://github.com/user-attachments/assets/ff029beb-5412-435c-83bf-659812ba9dec" width="50%">
 
 ## 软件截图
-![b4626121a5c44d5aa56f85dc888d5c07](https://github.com/user-attachments/assets/d7b16f59-5b98-4823-a5a5-7b317692ebbe)
+<img src="https://github.com/user-attachments/assets/d7b16f59-5b98-4823-a5a5-7b317692ebbe" width="80%">
