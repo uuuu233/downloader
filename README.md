@@ -17,6 +17,8 @@ directory = uumxd_v122
 shortcut = uumxd
 # 创建快捷方式时, 主程序的名字
 app = uumxd.exe
+# 自定义 headers
+headers = User-Agent: pan.com
 ```
 
 站在 `下载器` 视角: 我在启动后访问一个 `url` 地址, 把响应信息当作 `文件信息`
