@@ -68,3 +68,7 @@ exui 官网: https://exuik.com/
 
 ## 软件截图
 <img src="https://github.com/user-attachments/assets/d7b16f59-5b98-4823-a5a5-7b317692ebbe" width="80%">
+
+## 卖萌
+![296e02d32e5e897284da1c3757649697](https://github.com/user-attachments/assets/fdfd6110-c71a-4587-9098-ca09ededc290)
+
