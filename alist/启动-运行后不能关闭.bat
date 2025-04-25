@@ -1,0 +1,1 @@
+.\alist.exe server
