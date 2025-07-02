@@ -82,7 +82,7 @@ exui 官网: https://exuik.com/
 
 
 ## 流程
-<img src="https://github.com/user-attachments/assets/ff029beb-5412-435c-83bf-659812ba9dec" width="50%">
+<img src="https://github.com/user-attachments/assets/8a114ff1-7aac-4be5-a5e0-d4caa6057181" width="50%">
 
 
 ## 软件截图
